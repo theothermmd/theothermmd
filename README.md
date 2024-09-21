@@ -2,7 +2,7 @@
    <img id='readme-top' src="bg1.png" alt="Logo" >
 </div>
 
-I think reading the news is interesting. Even the smallest of them. I love making the coolest technology. But in fact, I am optimizing the calculator I made with artificial intelligence :)
+I think reading the news is interesting. Even the smallest of them. I love making the coolest technologies. But in fact, I am optimizing the calculator I made with artificial intelligence :)
 
 ## 🎈 My Recent OpenSource Projects
 <table>
