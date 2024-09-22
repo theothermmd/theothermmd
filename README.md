@@ -6,7 +6,7 @@ I love making the coolest technologies. But in fact, I am optimizing the calcula
 <table>
    <thead>
       <tr>
-        <th>أName</th>
+        <th>Name</th>
         <th>Status</th>
         <th>Description</th>
       </tr>
