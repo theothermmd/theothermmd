@@ -1,6 +1,4 @@
-<div align="center">
-   <img id='readme-top' src="gif.gif" alt="Logo" >
-</div>
+![](https://github.com/theothermmd/theothermmd/blob/main/gif.gif)
 
 I love making the coolest technologies. But in fact, I am optimizing the calculator I made with artificial intelligence :)
 
