@@ -1,4 +1,4 @@
-![](gif1.gif)
+![](bg.png)
 
 I love making the coolest technologies. But in fact, I am optimizing the calculator I made with artificial intelligence :)
 
