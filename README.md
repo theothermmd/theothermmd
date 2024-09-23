@@ -1,4 +1,4 @@
-![](https://github.com/theothermmd/theothermmd/blob/main/gif.gif)
+![](gif.gif)
 
 I love making the coolest technologies. But in fact, I am optimizing the calculator I made with artificial intelligence :)
 
