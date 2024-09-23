@@ -25,7 +25,7 @@ I love making the coolest technologies. But in fact, I am optimizing the calcula
       <tr>
          <td width="180px"><a href='https://github.com/mohamadrzm/dnspure'>🛜 DNS Pure </a></td>
           <td>✅</td>
-         <td>A very simple and fast tool to change DNS in Linux</td>
+         <td>This is the coolest. The coolest and most specialized network tool. that's right It changes the DNS. <a href='https://github.com/mohamadrzm/dnspure'>Leran more...</a></td>
        </tr>
     </tbody>
 </table>
