@@ -16,12 +16,7 @@ I love making the coolest technologies. But in fact, I am optimizing the calcula
          <td width="180px"><a href='https://github.com/mohamadrzm/MetrogoCore'>🚇 Metrogo</a></td>
           <td>✅</td>
          <td>The most interesting service that you don't even think about. that's right, A simple subway routing service.</td>
-       </tr>        
-       <tr>
-         <td width="180px"><a href='https://github.com/mohamadrzm/Metrogo'>Ⓜ️ Metrogo Web </a></td>
-          <td>✅</td>
-         <td>Metrogo Web is a popular version of the Metrogo Core. You can easily enter the origin and destination station and see the best and beautiful route.</td>
-       </tr>    
+       </tr>          
         <tr>
          <td width="180px"><a href='https://github.com/mohamadrzm/FilmFlow'>📽️ FilmFlow </a></td>
           <td>✅</td>
