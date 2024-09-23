@@ -20,7 +20,7 @@ I love making the coolest technologies. But in fact, I am optimizing the calcula
         <tr>
          <td width="180px"><a href='https://github.com/mohamadrzm/FilmFlow'>📽️ FilmFlow </a></td>
           <td>✅</td>
-         <td>One of the wonders of the 21st century. That's right. A free movie download service</td>
+         <td>One of the wonders of the 21st century. That's right. A free movie download service <a href='https://github.com/mohamadrzm/FilmFlow'>Leran more...</a></td>
        </tr>    
       <tr>
          <td width="180px"><a href='https://github.com/mohamadrzm/dnspure'>🛜 DNS Pure </a></td>
