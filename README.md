@@ -13,9 +13,9 @@ I love making the coolest technologies. But in fact, I am optimizing the calcula
    </thead>
    <tbody>
        <tr>
-         <td width="180px"><a href='https://github.com/mohamadrzm/MetrogoCore'>🚇 MetrogoCore </a></td>
+         <td width="180px"><a href='https://github.com/mohamadrzm/MetrogoCore'>🚇 Metrogo</a></td>
           <td>✅</td>
-         <td>It is a Metrogo Web core and finds the best and shortest route between subway stations. It is quick and simple.</td>
+         <td>The most interesting service that you don't even think about. that's right, A simple subway routing service.</td>
        </tr>        
        <tr>
          <td width="180px"><a href='https://github.com/mohamadrzm/Metrogo'>Ⓜ️ Metrogo Web </a></td>
