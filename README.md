@@ -24,8 +24,8 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadrzm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrzm&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theothermmd&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theothermmd&layout=compact&theme=radical)
 
 ---
 
