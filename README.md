@@ -10,8 +10,8 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 | Name | Status | Description |
 |------|--------|-------------|
 | 🚇   **[Metrogo](https://github.com/mohamadrzm/MetrogoCore)** | ✅ | Ever got lost in a subway station? Well, **Metrogo** won’t let that happen! It’s a simple subway routing service that you didn’t even know you needed. |
-| 📽️   **[FilmFlow](https://github.com/mohamadrzm/FilmFlow)** | ✅ | Imagine a service that lets you download movies for free — sounds like a dream? That’s **FilmFlow**, one of the wonders of the 21st century! |
-| 🛜   **[DNS Pure](https://github.com/mohamadrzm/dnspure)** | ✅ | Who knew changing your DNS could be this cool? **DNS Pure** is the most specialized network tool I’ve ever built. Use it, and it will blow your mind. |
+| 📽️    **[FilmFlow](https://github.com/mohamadrzm/FilmFlow)** | ✅ | Imagine a service that lets you download movies for free — sounds like a dream? That’s **FilmFlow**, one of the wonders of the 21st century! |
+| 🛜    **[DNS Pure](https://github.com/mohamadrzm/dnspure)** | ✅ | Who knew changing your DNS could be this cool? **DNS Pure** is the most specialized network tool I’ve ever built. Use it, and it will blow your mind. |
 
 ---
 
