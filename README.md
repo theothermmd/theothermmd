@@ -17,7 +17,7 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
   </thead>
   <tbody>
     <tr>
-      <td align="center" >🚇 <a href="https://github.com/mohamadrzm/MetrogoCore"><b>Metrogo</b></a></td>
+      <td align="center" ><b>🚇 <a href="https://github.com/mohamadrzm/MetrogoCore">Metrogo</b></a></td>
       <td align="center" >✅</td>
       <td>Ever got lost in a subway station? Well, <b>Metrogo</b> won’t let that happen! It’s a simple subway routing service that you didn’t even know you needed.</td>
     </tr>
