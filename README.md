@@ -7,11 +7,32 @@ I **love** making the coolest technologies. But in fact, right now, I’m busy o
 ## 🎈 My Recent OpenSource Projects
 Curious about what I’ve been up to lately? Here are a few of my latest creations — from things you didn’t know you needed to tools that make your life easier.
 
-| Name | Status | Description |
-|------|--------|-------------|
-| 🚇   **[Metrogo](https://github.com/mohamadrzm/MetrogoCore)** | ✅ | Ever got lost in a subway station? Well, **Metrogo** won’t let that happen! It’s a simple subway routing service that you didn’t even know you needed. |
-| 📽️        **[FilmFlow](https://github.com/mohamadrzm/FilmFlow)** | ✅ | Imagine a service that lets you download movies for free — sounds like a dream? That’s **FilmFlow**, one of the wonders of the 21st century! |
-| 🛜        **[DNS Pure](https://github.com/mohamadrzm/dnspure)** | ✅ | Who knew changing your DNS could be this cool? **DNS Pure** is the most specialized network tool I’ve ever built. Use it, and it will blow your mind. |
+<table>
+  <thead>
+    <tr align="center">
+      <th>Name</th>
+      <th>Status</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🚇 <a href="https://github.com/mohamadrzm/MetrogoCore"><b>Metrogo</b></a></td>
+      <td>✅</td>
+      <td>Ever got lost in a subway station? Well, <b>Metrogo</b> won’t let that happen! It’s a simple subway routing service that you didn’t even know you needed.</td>
+    </tr>
+    <tr>
+      <td>📽️ <a href="https://github.com/mohamadrzm/FilmFlow"><b>FilmFlow</b></a></td>
+      <td>✅</td>
+      <td>Imagine a service that lets you download movies for free — sounds like a dream? That’s <b>FilmFlow</b>, one of the wonders of the 21st century!</td>
+    </tr>
+    <tr>
+      <td>🛜 <a href="https://github.com/mohamadrzm/dnspure"><b>DNS Pure</b></a></td>
+      <td>✅</td>
+      <td>Who knew changing your DNS could be this cool? <b>DNS Pure</b> is the most specialized network tool I’ve ever built. Use it, and it will blow your mind.</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -24,8 +45,8 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theothermmd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theothermmd&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadrzm&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadrzm&layout=compact&theme=radical)
 
 ---
 
