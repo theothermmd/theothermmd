@@ -18,7 +18,7 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
   <tbody>
     <tr>
       <td align="center">🚇 <a href="https://github.com/mohamadrzm/MetrogoCore"><b>Metrogo</b></a></td>
-      <td align="center">❌</td>
+      <td align="center">✅</td>
       <td>Ever got lost in a subway station? Well, <b>Metrogo</b> won’t let that happen! It’s a simple subway routing service that you didn’t even know you needed.</td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
     </tr>
     <tr>
       <td align="center">🛜 <a href="https://github.com/mohamadrzm/dnspure"><b>DNS Pure</b></a></td>
-      <td align="center">✅</td>
+      <td align="center">❌</td>
       <td>Who knew changing your DNS could be this cool? <b>DNS Pure</b> is the most specialized network tool I’ve ever built. Use it, and it will blow your mind.</td>
     </tr>
   </tbody>
