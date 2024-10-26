@@ -1,4 +1,4 @@
-# 👋 Hi There, Welcome to My GitHub Page!
+# 👋 Hi There
 
 I **love** making the coolest technologies. But in fact, right now, I’m busy optimizing the most basic thing we all know — a **calculator** — with artificial intelligence 🤖. Yep, I like to mix simplicity with innovation!
 
