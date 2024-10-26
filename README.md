@@ -36,28 +36,9 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 
 ---
 
-## 🛠️ Tools & Technologies I Love
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, Python
-- **Databases**: MongoDB, MySQL
-- **Other**: Git, Docker, VS Code
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theothermmd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theothermmd&layout=compact&theme=radical)
-
----
-
 ## 💬 Let's Connect!
 If you’re curious about what I’m building or want to collaborate, hit me up!
 
 - 💼 [LinkedIn](https://linkedin.com/in/YourProfile)
-- 🐦 [Twitter](https://twitter.com/YourHandle)
-- 📧 Email: your.email@example.com
+- 🐦 [Telegram](https://t.me/theothermmd)
 
----
-
-## ⚡ Fun Fact
-I once created a tool that did **everything**… and then I optimized it again, just because I could! 😎
