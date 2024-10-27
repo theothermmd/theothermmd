@@ -11,7 +11,7 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
   <thead>
     <tr align="center">
       <th width="180px" >Name</th>
-      <th>Status</th>
+      <th width="100px">Status</th>
       <th>Description</th>
     </tr>
   </thead>
