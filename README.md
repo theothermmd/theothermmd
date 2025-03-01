@@ -1,6 +1,6 @@
 ## Hello. I hope you are well. I am Mohammad Reza. 
-I am a full stack developer, it doesn't matter much in what language I implement my future program, but I am more comfortable with Python and JavaScript.
-
+I am a full stack developer. I sometimes write on my Telegram channel and I also love presenting on different topics and trying to pass on what I learn to others.
+The languages ​​I code with the most are Python and JavaScript, but it doesn't really matter what we code with. You know?
 
 ## 🎈 My Recent OpenSource Projects
 Curious about what I’ve been up to lately? Here are a few of my latest creations. from things you didn’t know you needed to tools that make your life easier.
@@ -37,6 +37,6 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 ## 💬 Let's Connect!
 If you’re curious about what I’m building or want to collaborate, hit me up!
 
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile)
-- 🐦 [Telegram](https://t.me/theothermmd)
+- 💼 [LinkedIn]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8/))
+- 🐦 [Telegram](https://t.me/therealkambiz)
 
