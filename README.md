@@ -38,6 +38,6 @@ Curious about what I’ve been up to lately? Here are a few of my latest creatio
 ## 💬 Let's Connect!
 If you’re curious about what I’m building or want to collaborate, hit me up!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8)
 - 🐦 [Telegram](https://t.me/therealkambiz)
 
