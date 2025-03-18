@@ -2,8 +2,8 @@
 Hiiiii. I hope you are well. I am Mohammad Reza. I am currently active in the field of full stack development. I write the backend with Python and the frontend of my projects with JS. When I have free time, I post on my Telegram channel and X (formerly Twitter). I am also very interested in system programming and I study about it and write small projects. You can contact me through the following ways:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamadreza-mirjani-7841542b8)
-- 🐦 [Telegram Channel](https://t.me/therealkambiz)
-- 🐦 [X (Twitter)](https://t.me/therealkambiz)
+- 🏠 [Telegram Channel](https://t.me/therealkambiz)
+- 🐤 [X (Twitter)](https://t.me/therealkambiz)
 
 ## 🎈 My Recent OpenSource Projects
 Curious about what I’ve been up to lately? Here are a few of my latest creations. from things you didn’t know you needed to tools that make your life easier.
