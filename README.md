@@ -1,1 +1,1 @@
-Hiiiii. I hope you are well. I am Mohammad Reza. I am currently active in the field of full stack development. I write the backend with Python and the frontend of my projects with JS. When I have free time, I post on my Telegram channel and X (formerly Twitter). I am also very interested in system programming and I study about it and write small projects. 
+Hiii. This is nothing but Mohammad Reza's entertainment.
